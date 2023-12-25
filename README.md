@@ -12,8 +12,7 @@ Using the command window (5mins) \
 Special Matrices (5mins) \
 Matrix multiplication (5mins) \
 Special functions (5mins) \
-Matrix indexing (5mins) 
-
+Matrix indexing (5mins) \
 Part 2: \
 Script writing general practice organizing code (5mins) \
 Defining functions (5mins) \
@@ -28,4 +27,4 @@ Amplitude Modulation using script (10 mins) \
 Using matlab labeler app to add labels to each region (5mins) \
 Downloading the labeled data into a csv file (5 mins) \
 Possible Task: Filtering whale sound signals, labeling data, making predictions using that data in matlab (10 mins) \
-How to obtain help from Matlab (5 mins): help, lookfor, doc, Mathworks \
+How to obtain help from Matlab (5 mins): help, lookfor, doc, Mathworks 

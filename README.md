@@ -5,7 +5,7 @@ Part 1: https://youtu.be/6crIuFhF1lo?si=gRu0ksZivgmefszl \
 Part 2: https://youtu.be/CRMOwyIr2YM?si=nbtjjgL37BxzZq-6
 
 
-Part 1: 
+Part 1: \
 Introduction to matlab (5 mins) \
 Getting started (5 mins) \
 Using the command window (5mins) \

@@ -12,7 +12,7 @@ Using the command window (5mins) \
 Special Matrices (5mins) \
 Matrix multiplication (5mins) \
 Special functions (5mins) \
-Matrix indexing (5mins) \
+Matrix indexing (5mins) \\
 
 
 Part 2: \
